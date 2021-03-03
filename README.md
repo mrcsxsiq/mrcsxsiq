@@ -1,8 +1,8 @@
 # Hi there, I'm Marcos Paulo Farias 👋
 
-💬  I am currently working on **ARCore codelabs**. Check out [ARCore.How](https://www.tqi.com.br) to learn more
+💬  I am currently working on **ARCore codelabs**. Check out [TQI](https://www.tqi.com.br) to learn more
 
-I'm a mobile app developer based out of the GTA in Ontario, Canada that likes experimenting with new languages & tech stacks, as well as competing in the occasional Hackathon! 
+I'm a mobile app developer based in Brazil that likes experimenting with new languages & tech stacks to solve computing problems. 
 
 ### Languages and Tools 
 
