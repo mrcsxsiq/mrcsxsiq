@@ -24,9 +24,8 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 ![C++](https://img.shields.io/badge/-cpp-black?style=flat&logo=cpp)
 
 #### Currently Learning :computer:
+![Data Science](https://img.shields.io/badge/-Data_Science-grey?style=flat&logo=flutter)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
-![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 
 ### Latest Blog Posts
