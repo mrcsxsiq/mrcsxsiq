@@ -1,7 +1,6 @@
 # Hi there, I'm Marcos Paulo Farias 👋
 
 💬 I'm a software engineer based in Brazil that likes experimenting new languages & tech stuffs to solve computing problems.
-I'm currently working as **Android Developer**. Check out [TQI](https://www.tqi.com.br) to more
 
 ### Languages and Tools 
 
