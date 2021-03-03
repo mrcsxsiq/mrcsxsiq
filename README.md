@@ -26,4 +26,4 @@ Feel free to contact me. I'm always down for a friendly chat.
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/mrcsxsiq/)](https://github.com/mrcsxsiq/) 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://youtube.com/mrcsxsiq/)](https://youtube.com/mrcsxsiq/) 
 [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@mrcsxsiq/)](https://medium.com/@mrcsxsiq/) 
-[![Blog](https://img.shields.io/badge/-marcos.dev-grey?style=flat&logoColor=white&link=https://marcos.dev.)](https://marcos.dev/) 
+[![Blog](https://img.shields.io/badge/-marcos.dev-blue?style=flat&logoColor=white&link=https://marcos.dev.)](https://marcos.dev/) 
