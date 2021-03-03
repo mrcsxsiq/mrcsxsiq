@@ -12,7 +12,6 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ### Latest Blog Posts
 
@@ -20,8 +19,6 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 - [ARCore Augmented Faces without Sceneform with Kotlin](https://creativetech.blog/home/augmented-faces-without-sceneform)
 - [Interactive AR with Scene Viewer and Android Intent](https://creativetech.blog/home/scene-viewer-with-android-intent)
 - [Customise Instruction View in ARCore](https://creativetech.blog/home/customize-instruction-view-arcore)
-- [Face Landmarks for ARCore Augmented Faces](https://creativetech.blog/home/face-landmarks-for-arcore-augmented-faces)
-- [Instagram - like filter "Which ... are you?" with ARCore Augmented Faces](https://creativetech.blog/home/which-are-you-instagram-like-filter-arcore)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
