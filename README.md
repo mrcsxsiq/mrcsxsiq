@@ -2,10 +2,7 @@
 
 # Hi there, I'm Marcos Paulo Farias 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mrcsxsiq?style=social) 
-
 💬  I am currently working on **ARCore codelabs**. Check out [ARCore.How](https://arcore.how) to learn more
-
 
 I'm a mobile app developer based out of the GTA in Ontario, Canada that likes experimenting with new languages & tech stacks, as well as competing in the occasional Hackathon! 
 
@@ -63,4 +60,4 @@ _**What are your hobbies outside of programming?**_
 Feel free to contact me, I'm always down for a friendly chat
 
 [![Linkedin](https://img.shields.io/badge/-Marcos_Paulo_Farias-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq/)](https://www.linkedin.com/in/mrcsxsiq/)
-[![Twitter](https://img.shields.io/badge/-mrcsxsiq-00ACED?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/mrcsxsiq)](https://twitter.com/mrcsxsiq)
+![Twitter Follow](https://img.shields.io/twitter/follow/mrcsxsiq?style=social) 
