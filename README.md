@@ -2,11 +2,9 @@
 
 # Hi there, I'm Marcos Paulo Farias 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/KristiSimakova?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/mrcsxsiq?style=social) 
 
 💬  I am currently working on **ARCore codelabs**. Check out [ARCore.How](https://arcore.how) to learn more
-
-
 
 
 I'm a mobile app developer based out of the GTA in Ontario, Canada that likes experimenting with new languages & tech stacks, as well as competing in the occasional Hackathon! 
