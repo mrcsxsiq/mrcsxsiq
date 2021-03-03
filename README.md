@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Contact
-Feel free to contact me, I'm always down for a friendly chat
+Feel free to contact me. I'm always down for a friendly chat.
 
 [![Linkedin](https://img.shields.io/badge/-Marcos_Paulo_Farias-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq/)](https://www.linkedin.com/in/mrcsxsiq/)
 [![Github](https://img.shields.io/badge/-Marcos_Paulo_Farias-black?style=flat&logo=Github&logoColor=white&link=https://github.com/mrcsxsiq/)](https://github.com/mrcsxsiq/) 
