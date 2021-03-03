@@ -4,26 +4,15 @@
 
 I'm a mobile app developer based out of the GTA in Ontario, Canada that likes experimenting with new languages & tech stacks, as well as competing in the occasional Hackathon! 
 
-**Languages and Tools**  
+#### Languages and Tools 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-#### Languages and Tools
-![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript)
-
-#### Currently Learning
-![Data Science](https://img.shields.io/badge/-Data_Science-grey?style=flat&logo=flutter)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ### Latest Blog Posts
 
