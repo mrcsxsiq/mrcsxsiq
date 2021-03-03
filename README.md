@@ -23,4 +23,5 @@
 Feel free to contact me, I'm always down for a friendly chat
 
 [![Linkedin](https://img.shields.io/badge/-Marcos_Paulo_Farias-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq/)](https://www.linkedin.com/in/mrcsxsiq/)
-![Twitter Follow](https://img.shields.io/twitter/follow/mrcsxsiq?style=social) 
+![Github](https://img.shields.io/github/follow/mrcsxsiq?style=social) 
+![Twitter](https://img.shields.io/twitter/follow/mrcsxsiq?style=social) 
