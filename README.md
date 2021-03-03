@@ -1,5 +1,3 @@
-![Cover](https://github.com/mrcsxsiq/mrcsxsiq/blob/master/1500x500.jpeg "Cover")
-
 # Hi there, I'm Marcos Paulo Farias 👋
 
 💬  I am currently working on **ARCore codelabs**. Check out [ARCore.How](https://arcore.how) to learn more
