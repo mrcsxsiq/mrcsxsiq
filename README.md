@@ -21,12 +21,12 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Arduino](https://img.shields.io/badge/-Arduino-green?style=flat&logo=Arduino)
-![C++](https://img.shields.io/badge/-cpp-black?style=flat&logo=cpp)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript)
 
 #### Currently Learning :computer:
 ![Data Science](https://img.shields.io/badge/-Data_Science-grey?style=flat&logo=flutter)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 
 ### Latest Blog Posts
 
