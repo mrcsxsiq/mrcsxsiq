@@ -21,7 +21,7 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 - [Customise Instruction View in ARCore](https://creativetech.blog/home/customize-instruction-view-arcore)
 <!-- BLOG-POST-LIST:END -->
 
-## Contact
+### Contact
 Feel free to contact me, I'm always down for a friendly chat
 
 [![Linkedin](https://img.shields.io/badge/-Marcos_Paulo_Farias-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq/)](https://www.linkedin.com/in/mrcsxsiq/)
