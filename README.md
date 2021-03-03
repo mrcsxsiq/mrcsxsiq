@@ -1,6 +1,6 @@
 # Hi there, I'm Marcos Paulo Farias 👋
 
-💬 I'm a Software Engineer based in Brazil that likes experimenting new languages & tech stuffs to solve computing problems.
+💬 I'm a software engineer based in Brazil that likes experimenting new languages & tech stuffs to solve computing problems.
 
 ### Languages and Tools 
 
