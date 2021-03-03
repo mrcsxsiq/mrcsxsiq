@@ -37,22 +37,6 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 - [Instagram - like filter "Which ... are you?" with ARCore Augmented Faces](https://creativetech.blog/home/which-are-you-instagram-like-filter-arcore)
 <!-- BLOG-POST-LIST:END -->
 
-## About Me
-_**When did you start programming?**_
-My first encounter with programming was in my Grade 11 Java programming class. I made a 6 question demo of Are You Smarter Than A 5th Grader :joy:
-
-_**What drew you to Mobile Development in particular?**_
-I grew an affinity for Mobile Development because of how I can _see_ the results of what I'm working on. Personally, I prefer Android over iOS :sweat_smile:
-
-_**What is your goal as a Mobile Developer?**_
-As a Mobile Developer, I aim to be a better problem solver so that I can create better-working solutions than the ones that currently exist. "If it ain't broke, don't fix it....unless you can make it better":slightly_smiling_face:
-
-_**What are your hobbies outside of programming?**_
-- Guitar - been playing all genres (except country :sweat_smile:) for ~12 years 
-- Indoor Rock Climbing - although I'm looking to do outdoor as well
-- Gaming - PC player through and through
-- 3D Printing - Mainly a hobby printing game and movie props
-
 ## Contact
 Feel free to contact me, I'm always down for a friendly chat
 
