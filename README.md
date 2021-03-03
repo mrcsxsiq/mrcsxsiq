@@ -11,6 +11,9 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 #### Languages and Tools :brain:
 ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android)
@@ -51,8 +54,6 @@ _**What are your hobbies outside of programming?**_
 - Indoor Rock Climbing - although I'm looking to do outdoor as well
 - Gaming - PC player through and through
 - 3D Printing - Mainly a hobby printing game and movie props
-
-
 
 ## Contact
 Feel free to contact me, I'm always down for a friendly chat
