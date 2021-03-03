@@ -1,10 +1,15 @@
 ![Cover](https://github.com/Kristina-Simakova/Kristina-Simakova/blob/master/1500x500.jpeg "Cover")
-### Hi there 👋
+
+# Hi there, I'm Marcos Paulo Farias 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/KristiSimakova?style=social) 
 
 💬  I am currently working on **ARCore codelabs**. Check out [ARCore.How](https://arcore.how) to learn more
 
+
+
+
+I'm a mobile app developer based out of the GTA in Ontario, Canada that likes experimenting with new languages & tech stacks, as well as competing in the occasional Hackathon! 
 
 **Languages and Tools:**  
 
@@ -23,13 +28,6 @@
 - [Face Landmarks for ARCore Augmented Faces](https://creativetech.blog/home/face-landmarks-for-arcore-augmented-faces)
 - [Instagram - like filter "Which ... are you?" with ARCore Augmented Faces](https://creativetech.blog/home/which-are-you-instagram-like-filter-arcore)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
-# Hi there, I'm Marcos Paulo Farias 👋
-
-I'm a mobile app developer based out of the GTA in Ontario, Canada that likes experimenting with new languages & tech stacks, as well as competing in the occasional Hackathon! 
 
 ## About Me
 _**When did you start programming?**_
