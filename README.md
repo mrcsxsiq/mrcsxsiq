@@ -24,5 +24,5 @@ Feel free to contact me. I'm always down for a friendly chat.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq/)](https://www.linkedin.com/in/mrcsxsiq/)
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/mrcsxsiq/)](https://github.com/mrcsxsiq/) 
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=black&link=https://youtube.com/mrcsxsiq/)](https://youtube.com/mrcsxsiq/) 
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://youtube.com/mrcsxsiq/)](https://youtube.com/mrcsxsiq/) 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@mrcsxsiq/)](https://medium.com/@mrcsxsiq/) 
