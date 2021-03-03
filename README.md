@@ -17,6 +17,20 @@ I'm a mobile app developer based out of the GTA in Ontario, Canada that likes ex
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
+#### Languages and Tools :brain:
+![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Arduino](https://img.shields.io/badge/-Arduino-green?style=flat&logo=Arduino)
+![C++](https://img.shields.io/badge/-cpp-black?style=flat&logo=cpp)
+
+#### Currently Learning :computer:
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
+![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -43,21 +57,7 @@ _**What are your hobbies outside of programming?**_
 - Gaming - PC player through and through
 - 3D Printing - Mainly a hobby printing game and movie props
 
-## Technical Skills :zap::
-#### Known Languages :brain:
-![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vue.js)
 
-#### Currently Learning :computer:
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
-![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 
 ## Contact
 Feel free to contact me, I'm always down for a friendly chat
