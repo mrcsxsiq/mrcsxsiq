@@ -2,7 +2,7 @@
 
 💬  I'm a software engineer based in Brazil that likes experimenting new languages & tech stuffs to solve computing problems.
 
-- 💻 I’m currently working as a Android Software Engineer
+- 🤖 I’m currently working as Android Software Engineer
 - 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
 - 📈 I’m constantly learning and Improving my skills 🤣
 - 📊 I’m looking to collaborate with other developers too.
@@ -17,7 +17,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 ### Contact
-Feel free to contact me. I'm always down for a friendly chat.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq/)](https://www.linkedin.com/in/mrcsxsiq/)
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/mrcsxsiq/)](https://github.com/mrcsxsiq/) 
