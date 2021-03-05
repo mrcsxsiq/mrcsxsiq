@@ -2,7 +2,7 @@
 
 - 🇧🇷 I'm software engineer based in Brazil
 - 🤖 I’m currently working as Android Developer
-- 💻 I like to try new languages & tech stuffs to solve computing problems
+- 💻 I like to try new languages & tech stuff to solve computing problems
 - 📖 I'm also learning about Machine Learning, Data Science and Artificial Intelligence
 - 🚀 I’m looking to collaborate with other developers too.
 
