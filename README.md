@@ -2,6 +2,11 @@
 
 💬  I'm a software engineer based in Brazil that likes experimenting new languages & tech stuffs to solve computing problems.
 
+👩🏽‍💻 Android Developer Lead [@kobeapps](https://github.com/kobeapps) <br/>
+📢 Community Leader [@androiddevbr](https://github.com/androiddev) & [@androidbh](https://github.com/androidbh) <br/>
+💚 Creator of [UaiDroid](https://www.instagram.com/uaidroid/) - Android dev content for beginners<br/>
+🤔 I’m currently learning about leadership & management and improving my android development skills
+
 ### Languages and Tools 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
