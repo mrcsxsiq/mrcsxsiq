@@ -1,10 +1,10 @@
 ## Hey! I am Marcos, nice to meet you! 👋 
 
-- 🇧🇷 I'm software engineer based in Brazil
-- 🤖 I’m currently working as Android Developer
-- 💻 I like to try new languages & tech stuff to solve computing problems
-- 📖 I'm also learning about Machine Learning, Data Science and Artificial Intelligence
-- 🚀 I’m looking to collaborate with other developers too.
+🇧🇷 I'm software engineer based in Brazil<br>
+🤖 I’m currently working as Android Developer<br>
+💻 I like to try new languages & tech stuff to solve computing problems<br>
+📖 I'm also learning about Machine Learning, Data Science and Artificial Intelligence<br>
+🚀 I’m looking to collaborate with other developers too.<br>
 
 #### Languages and Tools 
 
