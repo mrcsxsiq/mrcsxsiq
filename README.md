@@ -7,6 +7,11 @@
 💚 Creator of [UaiDroid](https://www.instagram.com/uaidroid/) - Android dev content for beginners<br/>
 🤔 I’m currently learning about leadership & management and improving my android development skills
 
+- 💻 I’m currently working as a Data Science Instructor
+- 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
+- 📈 I’m constantly learning and Improving my skills 🤣
+- 📊 I’m looking to collaborate with other Data Scientists and developers 
+
 ### Languages and Tools 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
