@@ -11,14 +11,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [ARCore Augmented Faces without Sceneform with Kotlin](https://creativetech.blog/home/augmented-faces-without-sceneform)
-- [Interactive AR with Scene Viewer and Android Intent](https://creativetech.blog/home/scene-viewer-with-android-intent)
-- [Customise Instruction View in ARCore](https://creativetech.blog/home/customize-instruction-view-arcore)
-<!-- BLOG-POST-LIST:END -->
-
 ### Contact
 Feel free to contact me. I'm always down for a friendly chat.
 
