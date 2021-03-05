@@ -1,7 +1,7 @@
 ## Hey! I am Marcos, nice to meet you! 👋 
 
-- 🇧🇷 I'm a software engineer based in Brazil
-- 🤖 I’m currently working as Android Software Engineer 
+- 🇧🇷 I'm software engineer based in Brazil
+- 🤖 I’m currently working as Android Developer
 - 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
 - 📈 I like to try new languages & tech stuffs to solve computing problems.
 - 📊 I’m looking to collaborate with other developers too.
