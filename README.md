@@ -4,7 +4,7 @@
 - 🤖 I’m currently working as Android Developer
 - 💻 I like to try new languages & tech stuff to solve computing problems
 - 📖 I'm also learning about Machine Learning, Data Science and Artificial Intelligence
-- 🚀 I’m looking to collaborate with other developers too.
+- 🚀 I’m looking to collaborate with other developers too
 
 #### Languages and Tools 
 
