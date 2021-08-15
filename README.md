@@ -1,22 +1,10 @@
 ## Hey! I am Marcos, nice to meet you! 👋 
 
-- 🇧🇷 I'm software engineer based in Brazil and I’m currently working as Android Developer
+- 🇧🇷 I'm software engineer based in Brazil 
+- 🤖 I’m currently working as Android Developer
 - 💻 I like to try new languages & tech stuff to solve computing problems
 - 📖 I'm also learning about Machine Learning, Data Science and Artificial Intelligence
 - 🚀 I’m looking to collaborate with other developers too
-
-
-### Open Source Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=Kotlin-Pokedex)](https://github.com/mrcsxsiq/Kotlin-Pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=DroidNotes)](https://github.com/mrcsxsiq/DroidNotes) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=Kotlin-Pokedex)](https://github.com/mrcsxsiq/Kotlin-Pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=DroidNotes)](https://github.com/mrcsxsiq/DroidNotes) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=Kotlin-Pokedex)](https://github.com/mrcsxsiq/Kotlin-Pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=DroidNotes)](https://github.com/mrcsxsiq/DroidNotes) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=Kotlin-Pokedex)](https://github.com/mrcsxsiq/Kotlin-Pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrcsxsiq&repo=DroidNotes)](https://github.com/mrcsxsiq/DroidNotes) 
-
 
 ### Contact
 
