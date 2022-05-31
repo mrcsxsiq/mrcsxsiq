@@ -10,7 +10,7 @@ val mrcsxsiq = developer {
     }
 }
 ```
-
+<!-- 
 ### Get in touch:
 
 [<img align="left" alt="mrcsxsiq | Github" width="22px" src="https://simpleicons.org/icons/github.svg"/>](https://github.com/mrcsxsiq)
@@ -25,3 +25,4 @@ val mrcsxsiq = developer {
 [<img align="left" alt="mrcsxsiq | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />](#)
 [<img align="left" alt="mrcsxsiq | Hashnode" width="22px" src="https://simpleicons.org/icons/hashnode.svg" />](#)
 <br/>
+ -->
