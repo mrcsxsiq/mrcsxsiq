@@ -1,4 +1,3 @@
-## Hey! I am Marcos, nice to meet you! 👋 
 ```kotlin
 val mrcsxsiq = developer {
     about {
