@@ -2,7 +2,6 @@
 val mrcsxsiq = developer {
     about {
         name = "Marcos Paulo Farias"
-        role = "Android Developer"
     }
     tech("Kotlin", "Android", "KMM")
     links {
