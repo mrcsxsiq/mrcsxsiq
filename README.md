@@ -10,59 +10,6 @@
   </tr>
 </table>
 
-Open Source Projects:
-
-<table style="overflow-x:auto;">
-   <tr>
-      <td>
-         <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">
-         <img style="width: 90px;height: auto;" src="https://raw.githubusercontent.com/mrcsxsiq/Kotlin-Pokedex/master/screenshots/kotlin.png">
-         </a>
-      </td>
-      <td>
-         <p>
-            <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">Kotlin-Pokedex</a> is an app using ViewModel, ViewBinding, LiveData, Room and Navigation
-         </p>
-      </td>
-   </tr>
-      <tr>
-      <td>
-         <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">
-         <img style="width: 90px;height: auto;" src="https://raw.githubusercontent.com/mrcsxsiq/Kotlin-Pokedex/master/screenshots/kotlin.png">
-         </a>
-      </td>
-      <td>
-         <p>
-            <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">Kotlin-Pokedex</a> is an app using ViewModel, ViewBinding, LiveData, Room and Navigation
-         </p>
-      </td>
-   </tr>
-      <tr>
-      <td>
-         <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">
-         <img style="width: 90px;height: auto;" src="https://raw.githubusercontent.com/mrcsxsiq/Kotlin-Pokedex/master/screenshots/kotlin.png">
-         </a>
-      </td>
-      <td>
-         <p>
-            <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">Kotlin-Pokedex</a> is an app using ViewModel, ViewBinding, LiveData, Room and Navigation
-         </p>
-      </td>
-   </tr>
-      <tr>
-      <td>
-         <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">
-         <img style="width: 90px;height: auto;" src="https://raw.githubusercontent.com/mrcsxsiq/Kotlin-Pokedex/master/screenshots/kotlin.png">
-         </a>
-      </td>
-      <td>
-         <p>
-            <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex">Kotlin-Pokedex</a> is an app using ViewModel, ViewBinding, LiveData, Room and Navigation
-         </p>
-      </td>
-   </tr>
-</table>
-
 <!-- 
 ```kotlin
 val mrcsxsiq = developer {
