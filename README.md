@@ -32,22 +32,22 @@ val mrcsxsiq = developer {
 }
 ```
   
-### 👩‍💻 Professional interests:
+### 👩‍💻 Professional interests
 
 🖥️ Deeply fascinated by all things in computer science.<br/>
 📱 Developing intuitive and impactful Android and iOS applications using Koltin Multiplatform.<br/>
 🛠️ Continuously exploring new technologies and methodologies in software engineering.<br/>
 
-### 🌱 What I'm up to:
+### 🌱 What I'm up to
 
 📖 Constantly learning and improving my skills in software engineering.<br/>
 🔄 Contributing to open-source projects that catch my interest.<br/>
 
-### 📈 My goals:
+### 📈 Goals
 
 🌟 To develop software that makes a difference.<br/>
 🌐 To connect and collaborate with fellow developers and tech enthusiasts.<br/>
 
-### Skills
+### 💪 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,gradle,jenkins,java,mysql,mongodb,figma,github&theme=dark)](https://skillicons.dev)
