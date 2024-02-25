@@ -35,7 +35,7 @@ val mrcsxsiq = developer {
 ### 👩‍💻 Professional interests
 
 🖥️ Deeply fascinated by all things in computer science.<br/>
-📱 Developing intuitive and impactful Android and iOS applications using Koltin Multiplatform.<br/>
+📱 Developing intuitive and impactful Android and iOS applications using Kotlin Multiplatform.<br/>
 🛠️ Continuously exploring new technologies and methodologies in software engineering.<br/>
 
 ### 🌱 What I'm up to
