@@ -42,3 +42,6 @@ val mrcsxsiq = developer {
 🌟 To develop software that makes a difference.<br/>
 🌐 To connect and collaborate with fellow developers and tech enthusiasts.<br/>
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,gradle,jenkins,java,mysql,mongodb,figma,github&theme=dark)](https://skillicons.dev)
