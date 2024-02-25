@@ -6,11 +6,17 @@
       <img width="900" height="1"><br>
       <img src="profile.png" width="32"><br>
       <sub>  
-        <a href="https://linkedin.com/in/mrcsxsiq/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq)"></a></sub><br>
+        <a href="https://linkedin.com/in/mrcsxsiq"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq"></a>
+        <a href="https://medium.com/@mrcsxsiq"><img src="https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@mrcsxsiq"></a>
+        <a href="https://youtube.com/@mrcsxsiq"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&link=https://medium.com/@mrcsxsiq"></a>
+        <a href="https://x.com/mrcsxsiq"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=https://x.com/mrcsxsiq"></a>
+      </sub>
+      <br>
       <br>
     </td>
   </tr>
 </table>
+ 
 
 ### 🎓 About me:
 
