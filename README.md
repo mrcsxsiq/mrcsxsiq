@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Marcos!
 
-<img align="right"  height="86" src="https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif">
+<img align="right"  height="86" src="https://s3.ezgif.com/tmp/ezgif-3-4cb4b49ead.gif">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq)](https://linkedin.com/in/mrcsxsiq)
 [![Medium](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@mrcsxsiq)](https://medium.com/@mrcsxsiq)
