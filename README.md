@@ -1,22 +1,13 @@
-## 👋 Hi there, I'm Marcos Paulo Farias!
+## 👋 Hi there, I'm Marcos!
 
-<table>
-  <tr align="center">
-    <td>
-      <img width="900" height="1"><br>
-      <img src="profile.png" width="32"><br>
-      <sub>  
-        <a href="https://linkedin.com/in/mrcsxsiq"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq"></a>
-        <a href="https://medium.com/@mrcsxsiq"><img src="https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@mrcsxsiq"></a>
-        <a href="https://youtube.com/@mrcsxsiq"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&link=https://medium.com/@mrcsxsiq"></a>
-        <a href="https://x.com/mrcsxsiq"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=https://x.com/mrcsxsiq"></a>
-      </sub>
-      <br>
-      <br>
-    </td>
-  </tr>
-</table>
- 
+<img align="right"  height="86" src="https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq)](https://linkedin.com/in/mrcsxsiq)
+[![Medium](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@mrcsxsiq)](https://medium.com/@mrcsxsiq)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&link=https://youtube.com/@mrcsxsiq)](https://youtube.com/@mrcsxsiq)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=https://x.com/mrcsxsiq)](https://x.com/mrcsxsiq)
+<br/><br/>
+
 
 ### 🎓 About me:
 
