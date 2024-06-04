@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq)](https://linkedin.com/in/mrcsxsiq)
 [![Medium](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@mrcsxsiq)](https://medium.com/@mrcsxsiq)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&link=https://youtube.com/@mrcsxsiq)](https://youtube.com/@mrcsxsiq)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=https://x.com/mrcsxsiq)](https://x.com/mrcsxsiq)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&labelColor=black&logo=X&logoColor=white&link=https://x.com/mrcsxsiq)](https://x.com/mrcsxsiq)
 
 ### 🎓 About me:
 
