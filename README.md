@@ -42,4 +42,4 @@ val mrcsxsiq = developer {
 
 ### 💪 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,gradle,jenkins,java,mysql,mongodb,figma,github&theme=dark)](https://linkedin.com/in/mrcsxsiq)
+<a href="https://linkedin.com/in/mrcsxsiq"><img height="36" src="https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,gradle,jenkins,java,mysql,mongodb,figma,github&theme=dark"/></a>
