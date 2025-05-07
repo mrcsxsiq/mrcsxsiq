@@ -1,7 +1,6 @@
 ### <p align="center">👋 Hi there, I'm Marcos!</p>
 
 <img align="right" height="48" src="android.gif">
-<img align="left" height="48" src="blank.png"> 
 
 <p align="center">
 <a href="https://linkedin.com/in/mrcsxsiq"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq"/></a>
