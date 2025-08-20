@@ -1,14 +1,5 @@
 ### <p align="center">👋 Hi there, I'm Marcos!</p>
 
-<img align="right" height="48" src="android.gif">
-
-<p align="center">
-<a href="https://linkedin.com/in/mrcsxsiq"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrcsxsiq"/></a>
-<a href="https://medium.com/@mrcsxsiq"><img src="https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@mrcsxsiq"/></a>
-<a href="https://youtube.com/@mrcsxsiq"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&link=https://youtube.com/@mrcsxsiq"/></a>
-<a href="https://x.com/mrcsxsiq"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&labelColor=black&logo=X&logoColor=white&link=https://x.com/mrcsxsiq"/></a>
-</p>
-
 #### 🎓 About me
 
 ```kotlin
