@@ -3,11 +3,14 @@
 #### 🎓 About me
 
 ```kotlin
+
 val mrcsxsiq = developer {
     about = {
         name = "Marcos Paulo Farias"
+        role = "Mobile Software Engineer"
+        passion = "Building impactful apps with Kotlin & KMP"
     }
-    tech("Kotlin", "Android", "KMP")
+    tech("Kotlin", "Compose", "Android", "iOS", "KMP")
     links {
         blog = "https://marcos.dev"
     }
@@ -15,21 +18,17 @@ val mrcsxsiq = developer {
 ```
   
 #### 👩‍💻 Professional interests
+🖥️ Enthusiast of computer science and modern architectures.<br/>
+📱 Crafting seamless Android & iOS apps with Kotlin Multiplatform.<br/>
+⚡ Exploring clean, scalable and maintainable code in every project.<br/>
+🛠️ Experimenting with new tools, libraries, and frameworks that push technology forward.<br/>
 
-🖥️ Deeply fascinated by all things in computer science.<br/>
-📱 Developing intuitive and impactful Android and iOS applications using Kotlin Multiplatform.<br/>
-🛠️ Continuously exploring new technologies and methodologies in software engineering.<br/>
+#### 📈 Goals
 
-#### 🌱 What I'm up to
+🌟 Create software that is useful, reliable and delightful to use.<br/>
+🌐 Collaborate and exchange ideas with amazing developers worldwide.<br/>
+🎯 Keep evolving as an engineer and as a problem-solver.<br/>
 
-📖 Constantly learning and improving my skills in software engineering.<br/>
-🔄 Contributing to open-source projects that catch my interest.<br/>
+#### 💪 Skills
 
-### 📈 Goals
-
-🌟 To develop software that makes a difference.<br/>
-🌐 To connect and collaborate with fellow developers and tech enthusiasts.<br/>
-
-### 💪 Skills
-
-<a href="https://linkedin.com/in/mrcsxsiq"><img height="36" src="https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,gradle,jenkins,java,mysql,mongodb,figma,github&theme=dark"/></a>
+<a href="https://linkedin.com/in/mrcsxsiq"><img height="48" src="https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,gradle,jenkins,java,mysql,mongodb,figma,github&theme=dark"/></a>
