@@ -28,7 +28,3 @@ val mrcsxsiq = developer {
 🌟 Create software that is useful, reliable and delightful to use.<br/>
 🌐 Collaborate and exchange ideas with amazing developers worldwide.<br/>
 🎯 Keep evolving as an engineer and as a problem-solver.<br/>
-
-#### 💪 Skills
-
-<a href="https://linkedin.com/in/mrcsxsiq"><img height="48" src="https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,gradle,jenkins,java,mysql,mongodb,figma,github&theme=dark"/></a>
