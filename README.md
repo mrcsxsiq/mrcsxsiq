@@ -10,6 +10,7 @@
 val mrcsxsiq = developer {
     focus("Kotlin Multiplatform", "Compose", "Clean Architecture")
     currently = "Building cross-platform apps"
+    lookingFor = "Collaborations and great ideas to exchange"
     blog = "https://marcos.dev"
 }
 ```
