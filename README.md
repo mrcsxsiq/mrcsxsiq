@@ -8,15 +8,9 @@
 
 ```kotlin
 val mrcsxsiq = developer {
-    about = {
-        name = "Marcos Paulo Farias"
-        role = "Mobile Software Engineer"
-        passion = "Building impactful apps with Kotlin & KMP"
-    }
-    tech("Kotlin", "Compose", "Android", "iOS", "KMP")
-    links {
-        blog = "https://marcos.dev"
-    }
+    focus("Kotlin Multiplatform", "Compose", "Clean Architecture")
+    currently = "Building cross-platform apps"
+    blog = "https://marcos.dev"
 }
 ```
 
@@ -24,8 +18,8 @@ val mrcsxsiq = developer {
 
 <p align="center">
   <a href="https://github.com/mrcsxsiq/KMP-Kitchen-Connect"><b>KMP-Kitchen-Connect</b></a>: Kitchen Display System simulating communication between devices.<br/>
-  <a href="https://github.com/mrcsxsiq/DroidNotes"><b>DroidNotes</b></a>: Notes app with MVVM, Coroutines, Room and Jetpack Compose.<br/>
-  <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex"><b>Kotlin-Pokedex</b></a>: Pokédex app using ViewModel, LiveData, Room and Navigation.
+  <a href="https://github.com/mrcsxsiq/DroidNotes"><b>DroidNotes</b></a>: Notes app built with Jetpack Compose and Room.<br/>
+  <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex"><b>Kotlin-Pokedex</b></a>: Pokédex app with offline caching and navigation.
 </p>
 
 <h3 align="center">Technology Stack</h3>
