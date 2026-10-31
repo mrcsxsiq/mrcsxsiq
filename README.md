@@ -21,7 +21,8 @@ val mrcsxsiq = developer {
   <a href="https://github.com/mrcsxsiq/KMP-Kitchen-Connect"><b>KMP-Kitchen-Connect</b></a>: Kitchen Display System simulating communication between devices.<br/>
   <a href="https://github.com/mrcsxsiq/DroidNotes"><b>DroidNotes</b></a>: Notes app built with Jetpack Compose and Room.<br/>
   <a href="https://github.com/mrcsxsiq/Kotlin-Pokedex"><b>Kotlin-Pokedex</b></a>: Pokédex app with offline caching and navigation.<br/>
-  <a href="https://github.com/mrcsxsiq/KGameBoy"><b>KGameBoy</b></a>: Game Boy and Game Boy Color emulator built with Kotlin Multiplatform.
+  <a href="https://github.com/mrcsxsiq/KGameBoy"><b>KGameBoy</b></a>: Game Boy and Game Boy Color emulator built with Kotlin Multiplatform.<br/>
+  <a href="https://github.com/mrcsxsiq/avd-studio"><b>AVD Studio</b></a>: Native macOS app to manage Android emulators, built with SwiftUI and Kotlin Multiplatform.
 </p>
 
 <h3 align="center">Technology Stack</h3>
